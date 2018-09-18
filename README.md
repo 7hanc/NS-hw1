@@ -1,5 +1,5 @@
 # Network-Security (hw1)
-# Homework 1 ()
+# Homework 1 
 > Goal: Hack Bob’s blog at http://140.113.194.80:xxxxx/blog/, and get the intimate picture he uploaded last night.   
 
 > Hints & Guides
