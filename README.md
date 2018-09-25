@@ -10,7 +10,7 @@
     * Bob uses MySQL to store his blog data.
   * phpMyAdmin 
     * handle the administration of MySQL over the web.
-  * Base64 encodin
+  * Base64 encoding
     * Frequency Analysis (break some simple encryption method over certain plaintext(such as english language).
   * XOR encryption
     * the key and the plaintext to get ciphertext
